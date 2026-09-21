@@ -93,7 +93,7 @@ For a penetration tester, footprinting establishes the context required to appro
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/FOOT%20PRINTING.png)
 
-![](
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/FOOT%20PRINTING%206.png)
 
 
 ## Skills & Competencies Developed
