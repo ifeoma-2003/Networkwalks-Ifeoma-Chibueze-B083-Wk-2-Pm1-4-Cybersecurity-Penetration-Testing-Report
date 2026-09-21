@@ -75,7 +75,7 @@ The results from the two commands provide an opportunity to observe how the sele
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/THE%20HARVESTER%202.png)
 
-![](
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/THE%20HARVESTER%203.png)
 
 ## Skills Developed
 ```
