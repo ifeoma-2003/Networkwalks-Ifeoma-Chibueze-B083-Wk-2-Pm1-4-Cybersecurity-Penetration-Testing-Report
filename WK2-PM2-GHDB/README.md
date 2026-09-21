@@ -127,6 +127,9 @@ Together, they reinforced the importance of understanding what an organization o
 ## Evidence & Documentation
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/Google%20Hacking%20Database.png)
+
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/Google%20Hacking%20Database%202.png)
+
 ![](
 
 
