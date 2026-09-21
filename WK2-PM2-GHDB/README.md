@@ -138,8 +138,7 @@ Together, they reinforced the importance of understanding what an organization o
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/Google%20Hacking%20Database%206.png)
 
-![](
-
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/Google%20Hacking%20Database%207.png)
 
 ## Skills Developed
 ```
