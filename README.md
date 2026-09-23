@@ -1,6 +1,6 @@
-## Networkswalks Cybersecurity Internship-Week2
-
 ## Penetration Testing & Reconnaissance
+
+## Networkwalks Cybersecurity Internship-Week2
 
 ## Overview
 Week 2 of the Networkwalks Cybersecurity Internship focused on the foundational reconnaissance activities performed during a penetration testing engagement.
@@ -123,6 +123,10 @@ The practical activities documented in this repository were undertaken for cyber
 Reconnaissance and scanning techniques can provide valuable security insights when applied within an authorized environment. However, the same techniques can become
 inappropriate when directed at systems, networks, or information without permission.
 
+## Author
 
+Chibueze Ifeoma | Cybersecurity Learner | B083 | Week 2 |
+
+Linkedin Account: https://www.linkedin.com/in/ifeoma-chibueze-9774a4406
 
 
