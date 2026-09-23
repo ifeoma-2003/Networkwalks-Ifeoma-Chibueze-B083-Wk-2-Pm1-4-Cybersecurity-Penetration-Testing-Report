@@ -78,22 +78,21 @@ The scan returned three responsive hosts within the examined network scope.
 ## Task 5
 
 ## IP Addresses Of Live Hosts
-```
+
 | Host | IP Address | Status |
 | --- | --- | --- |
 | Host 1 | 172.20.10.1 | Live |
 | Host 2 | 172.20.10.2 | Live |
 | Host 3 | 172.20.10.11 | Live |
-```
+
 
 ## MAC Addresses
 
 The scan provided MAC adress information for the discovered hosts where available
-```
+
 | IP Address | MAC Address |
 | --- | --- |
 | `172.20.10.1` | `EA:FB:E9:53:71:64` |
-```
 
 
 ## Analysis
