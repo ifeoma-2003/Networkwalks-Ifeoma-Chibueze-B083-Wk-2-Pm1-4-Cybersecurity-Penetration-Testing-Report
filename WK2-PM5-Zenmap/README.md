@@ -118,6 +118,8 @@ Technical documentation.
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/ZENMAP.png)
 
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-2-Pm1-4-Cybersecurity-Penetration-Testing-Report/blob/main/ZENMAP%202.png)
+
 ![](
 
 ## Author
